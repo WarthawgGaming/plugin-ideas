@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/ideas.png" alt="Plugin Ideas Banner">
+</p>
+
 # Plugin Ideas
 
 Minecraft plugin concepts, development notes, feature planning, and future project ideas for Warthawg Gaming.
